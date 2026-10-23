@@ -2,7 +2,7 @@
 #'
 #' @return Launches Hypothesis Testing Shiny application.
 #' @export
-run_die_app <- function() {
+run_hypothesis_app <- function() {
 
   app_dir <- system.file(
     "shiny-apps",

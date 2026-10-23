@@ -2,3 +2,5 @@
 
 export(run_clt_app)
 export(run_die_app)
+export(run_hypothesis_app)
+export(run_significance_app)
